@@ -1,2 +1,13 @@
-# ccFixer
-Fix Polus and flipcontrolcenter bugs in iOS 9.2~9.3.3
+# SiriLog
+A tweak enable logging Siri historys and user commands.
+
+![](./sample.png)
+
+
+#### Enviroment
+Build by iOS 10.1 SDK and THEOS
+Tested on iOS 9 ~ 10
+
+#### Log File
+Storing at `/var/tmp/fuckyousiri.log`
+
